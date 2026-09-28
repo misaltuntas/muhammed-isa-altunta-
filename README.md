@@ -2,7 +2,7 @@
 
 Introduction to Computer Science (YMT113) · Fall 2026 · Fırat University
 
-## Student
+## Student Muhammed İsa Altuntas 250543014
 
 <!-- Fill in both lines, then commit. This is how your work is matched to you. -->
 - Name:
