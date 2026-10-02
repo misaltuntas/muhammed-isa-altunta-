@@ -31,8 +31,8 @@ Meow: https://scratch.mit.edu/projects/1385764670
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: https://scratch.mit.edu/projects/1387424817
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+The game is about a crab catching apples on the beach. It uses a custom block, a variable to keep track of the score, a loop to repeat actions, a condition to check if the crab catches an apple, and an event to start the game.
