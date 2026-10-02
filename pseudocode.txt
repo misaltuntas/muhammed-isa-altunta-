@@ -6,10 +6,20 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-1  Pick up the first paper
-2  Remember its number as "largest so far"
-3  If there are no papers left, go to line 7
-4  Pick up the next paper
-5  If its number is bigger than "largest so far", remember it as "largest so far"
-6  Go back to line 3
-7  Announce "largest so far"
+1 Pick up an empty cup and place one tea bag inside it.
+
+2 Pour hot water into the cup until it is full.
+
+3 Wait for 3 minutes for the tea to brew.
+
+4 Remove the tea bag from the cup and throw it in the trash.
+
+5 Check the temperature of the tea:
+
+6 If the tea is at a drinkable temperature, go to line 7.
+
+7 If the tea is too hot, add a small amount of cold water.
+
+8 Go back to line 5.
+
+9 Serve the tea and end the process.
